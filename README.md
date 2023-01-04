@@ -1,2 +1,2 @@
-# Taxi_datset
-Using python libraries like numpy, pandas, matplotlib, seaborn .
+# Taxi_dataset
+Using Numpy I just explored the data.
